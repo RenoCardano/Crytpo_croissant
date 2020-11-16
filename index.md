@@ -1,9 +1,10 @@
 # Welcome to [CrytoCroissant Staking Pool]
 
-## Liberté, égalité, crytomonnaies
+## Liberté, Egalité, Crytomonnaies
 
 ### SERVER INFORMATION
-CrytoCroissant is operated on OVH servers offering 99.99% server uptime. Our core server is located in two different in Strasbourg and is protected proxy relays located.
+CrytoCroissant is operated on cloud servers offering 99.99% server uptime. 
+Our core server is located in France and is protected proxy relays located.
 All servers are running on Ubuntu 20.04. 
 
 We love the Cardano community and we are keen to work toward increasing decentralisation and Cardano awareness.
