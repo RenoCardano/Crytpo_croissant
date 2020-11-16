@@ -1,10 +1,10 @@
-# Welcome to [CrytoCroissant Staking Pool]
+# Welcome to ":croissant:" [CrytoCroissant Staking Pool] ":croissant:"
 
 ## Liberté, Egalité, Crytomonnaies
 
 ### SERVER INFORMATION
 CrytoCroissant is operated on cloud servers offering 99.99% server uptime. 
-Our core server is located in France and is protected proxy relays located.
+Our core server is located in France and is protected proxy relays.
 All servers are running on Ubuntu 20.04. 
 
 We love the Cardano community and we are keen to work toward increasing decentralisation and Cardano awareness.
@@ -18,6 +18,7 @@ We provide a substantial pledge of 10.000 ADA to ensure getting rewards and we p
 - Ticker: [CCFR]
 - Name: [CrytoCroissant Staking Pool]
 
-### SUPPORT AND CONTACT :kissing_heart:
+### SUPPORT AND CONTACT 
+:kissing_heart:
 
 For all your question and proposition please write to cryptocroissantticker@gmail.com and we will help you sort it out. We will come back to you in a maximum of 2 hours
