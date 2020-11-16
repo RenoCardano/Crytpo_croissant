@@ -1,4 +1,4 @@
-# Welcome to ":croissant:" [CrytoCroissant Staking Pool] ":croissant:"
+# Welcome to [CrytoCroissant Staking Pool]
 
 ## Liberté, Egalité, Crytomonnaies
 
@@ -19,6 +19,5 @@ We provide a substantial pledge of 10.000 ADA to ensure getting rewards and we p
 - Name: [CrytoCroissant Staking Pool]
 
 ### SUPPORT AND CONTACT 
-:kissing_heart:
 
 For all your question and proposition please write to cryptocroissantticker@gmail.com and we will help you sort it out. We will come back to you in a maximum of 2 hours
