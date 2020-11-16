@@ -1,6 +1,29 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/RenoCardano/Crytpo_croissant/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editWelcome to [CrytoCroissant Staking Pool]
+
+###Liberté, égalité, crytomonnaies
+
+### SERVER INFORMATION
+CrytoCroissant is operated on OVH servers offering 99.99% server uptime. Our core server is located in two different in Strasbourg and is protected proxy relays located.
+All servers are running on Ubuntu 20.04. 
+
+We love the Cardano community and we are keen to work toward increasing decentralisation and Cardano awareness.
+
+### LOW FEES HIGH PLEDGE HIGH REWARDS
+
+We provide a substantial pledge of 10.000 ADA to ensure getting rewards and we propose low fees 0.5%.
+
+### STAKE POOL INFORMATION
+
+Ticker: [CCFR]
+Name: [CrytoCroissant Staking Pool]
+
+### SUPPORT AND CONTACT :kissing_heart:
+
+For all your question and proposition please write to cryptocroissantticker@gmail.com and we will help you sort it out. We will come back to you in a maximum of 2 hours
+### 
+or on GitHub](https://github.com/RenoCardano/Crytpo_croissant/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
